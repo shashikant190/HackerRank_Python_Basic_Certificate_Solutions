@@ -33,7 +33,7 @@ In the first and only line, there are space-separated integers that denote the v
 Solution: -
 </h3>
 
-link
+average_function.py
 
 <h2>
 2. Python: Shape Classes with Area Method
@@ -73,4 +73,5 @@ Then, q lines follow. In the ith of them, there are space-separated parameters. 
 <h3>
 Solution: -
 </h3>
-link
+
+shape_classes_with_area_method.py
